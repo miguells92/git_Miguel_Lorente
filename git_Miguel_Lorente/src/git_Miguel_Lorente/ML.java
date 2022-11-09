@@ -4,7 +4,7 @@ public class ML {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Primera modificacion desde master");
+		System.out.println("Modificación desde Master - Cambiado");
 
 	}
 
